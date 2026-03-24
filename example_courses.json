@@ -1,0 +1,33 @@
+[
+  {
+    "title": "示例课程：AI 基础入门",
+    "description": "这是一门示例课程，展示 JSON 数据导入格式。",
+    "cover_image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+    "category": "text",
+    "difficulty": "beginner",
+    "is_free": true,
+    "price": 0,
+    "is_published": true,
+    "student_count": 100,
+    "rating": 4.5,
+    "rating_count": 20,
+    "chapters": [
+      {
+        "title": "第一章：基础概念",
+        "order": 1,
+        "lessons": [
+          {"title": "1.1 什么是人工智能", "duration": 300, "order": 1},
+          {"title": "1.2 AI 的应用场景", "duration": 420, "order": 2}
+        ]
+      },
+      {
+        "title": "第二章：实践操作",
+        "order": 2,
+        "lessons": [
+          {"title": "2.1 第一个 AI 工具", "duration": 600, "order": 1},
+          {"title": "2.2 实战练习", "duration": 900, "order": 2}
+        ]
+      }
+    ]
+  }
+]
